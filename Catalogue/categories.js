@@ -1,4 +1,4 @@
-//Categor List
+//Category List
 var categories = [
 {
 	"id":1,
